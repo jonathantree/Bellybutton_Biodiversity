@@ -1,0 +1,43 @@
+body {
+    background-color: powderblue;
+    color: #0e0a01;
+  }
+
+  .jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 150%;
+    text-align: center;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+  }
+  p {
+    color: rgb(2, 46, 59);
+    text-align: center;
+  }
+  /* .row {
+    padding-top: 200px;
+    padding-right: 30px;
+    padding-bottom: 200px;
+    padding-left: 80px;
+  } */
+  .well{
+    background-color: rgb(188, 194, 194);
+    color: rgb(3, 66, 66);
+  }
+  .panel-title{
+    /* background-color: rgb(0, 0, 14); */
+    color: rgb(3, 58, 40);
+    /* text-shadow: black 0.1em 0.1em 0.1em; */
+  }
+  .panel-body{
+    background-color: rgb(1, 51, 16);
+    color: aliceblue;
+    font-weight: bold;
+
+  }
+  .col-md-9 {
+    border: double;
+  }
+  .col-md-6 {
+    border: double;
+  }

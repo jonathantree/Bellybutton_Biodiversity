@@ -136,6 +136,9 @@ function buildCharts(sample) {
       title : 'Bacteria Cultures Per Sample',
       xaxis : {
         title : 'OTU ID'
+      },
+      yaxis: {
+        title: "Value Counts"
       }
       
     };
