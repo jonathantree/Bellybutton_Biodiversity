@@ -6,6 +6,9 @@ The purpose of this project was to construct a dashboard using the Plotly librar
 Navigate to the link below to see the dashboard:
 https://jonathantree.github.io/Bellybutton_Biodiversity/
 
+## Web App Screenshot
+![Screenshot](static/images/app_SS.png)
+
 ### Charts are constructed with the following code in /static/js/charts.js
 ```javascript
 function init() {
